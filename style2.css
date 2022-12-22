@@ -497,7 +497,7 @@ section
 	
 }
 .about img {
-	transition: 1s;
+	transition: 0.2s;
   }
   
   .about img:hover {
